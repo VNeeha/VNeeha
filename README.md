@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" width="200" src="https://static.vecteezy.com/system/resources/thumbnails/031/322/861/small_2x/phoenix-bird-with-outstretched-wings-rising-burning-in-flames-epic-phoenix-bird-fire-rebirth-power-concept-by-ai-generated-free-photo.jpg"  />
 
 ###
  💻 Tech Stack:
